@@ -10,7 +10,7 @@ body{
 }
 
 .item-div{
-	border: 3px solid blue;
+	border: 1px solid black;
 	background-color: maroon;
 	color: white;	
 	padding: 10px;
@@ -28,7 +28,7 @@ header{
 	color: green;
 	float: right;
 	clear: left;
-	border: 0px 0px 3px 3px solid black;
+	border: 0px 0px 1px 1px solid black;
 	margin: -10px -10px 15px 0px;
 }
 
